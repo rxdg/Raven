@@ -1,5 +1,4 @@
 # Raven
 
-Testing one two three.
-Making changes.
-Cool.
+Creating a 3D ASCII world.
+Coding experiment.
